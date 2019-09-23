@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+  <html xmlns="http://www.w3.org/1999/xhtml">
+      <head>
+        <meta content="en-us" http-equiv="content-language" />
+        <meta content="text/html; charset=uft-8" http-equiv="content-type" />
+          <title>Welcome To Assignment 1</title>
+</head>
+      <body>
+    <h1> Heading 1 </h1>
+    <h2>TEST</h2>
+    <p> Test <em>Paragraph</em> </p>
+    <p> This is <strong>also</strong> a Test Paragraph</p>
+    <a name="TestAnchor">Top Anchor</a>
+    <a href="#TestAnchor">Top Anchor</a>
+    <a href="example.html">Click Here </a>
+    <div>
+    <img src="Lec2/RYB.png" alt="Lec2/TEST.png"/>
+  </div>
+<ul>
+  <li>Red</li>
+  <li>Blue</li>
+  <li>Yellow</li>
+</ul>
+<a href="https://www.allrecipes.com/recipe/209578/blt/">BLT Recipe </a>
+<img src="https://thomasbreads.com/files/styles/recipe/public/images/recipe/10348_13%20Mini%20Bagel%20BLT.jpg?itok=qXu9y6R2" alt="https://assets.kraftfoods.com/recipe_images/opendeploy/137310-b39ed55af31b421d5d4a15deede463ef5f4c9527_642x428.jpg"/>
+<ol>
+  <li>Bagel</li>
+  <li>Egg</li>
+  <li>Bacon</li>
+  <li>Mayo</li>
+  <li>Tomato</li>
+  <li>Lettuce</li>
+  <li>Bagel</li>
+</ol>
+      </body>
+
+  </html>
